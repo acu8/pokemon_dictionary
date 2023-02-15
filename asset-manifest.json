@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acu8/pokemon_dictionary.git/static/css/main.e7217126.css",
+    "main.js": "/acu8/pokemon_dictionary.git/static/js/main.46ae8bf5.js",
+    "index.html": "/acu8/pokemon_dictionary.git/index.html",
+    "main.e7217126.css.map": "/acu8/pokemon_dictionary.git/static/css/main.e7217126.css.map",
+    "main.46ae8bf5.js.map": "/acu8/pokemon_dictionary.git/static/js/main.46ae8bf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7217126.css",
+    "static/js/main.46ae8bf5.js"
+  ]
+}
